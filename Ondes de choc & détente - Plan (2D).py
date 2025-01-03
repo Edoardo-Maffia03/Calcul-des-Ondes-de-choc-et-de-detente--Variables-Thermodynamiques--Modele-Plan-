@@ -24,7 +24,7 @@
      /____/                                                           
 ===============================================================================
 
-Ondes de choc et détentes autour d'une ogive - Analyse complète
+Ondes de choc et détentes autour d'une ogive (Modèle 2D - plan)- Analyse complète
 Créé le : 10 Décembre 2024
 Auteur : MAFFIA Edoardo
 
