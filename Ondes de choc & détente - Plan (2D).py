@@ -766,9 +766,10 @@ draw_cone_tube_horizontal(
     cone_radius=r, 
     tube_length=l, 
     mach_angle=beta_weak,
-    angle_mach_amont=mu1_deg,
+    angle_mach_amont=mu1_deg-delta,
     angle_mach_aval=mu2_deg
 )
+#ATTENTION DE BIEN SOUSTRAIRE PAR L'ANGLE DE DEVIATION DELTA POUR REPRESENTER L'ANGLE EN AMONT!!!
 print(f"\n")
 
 #%%
