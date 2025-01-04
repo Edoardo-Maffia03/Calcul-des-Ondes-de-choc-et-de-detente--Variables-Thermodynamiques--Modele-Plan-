@@ -385,7 +385,7 @@ def draw_cone_tube_horizontal(cone_length, cone_radius, tube_length,
     plt.xlabel("Longueur (mm)")
     plt.ylabel("Hauteur (mm)")
     plt.grid(True)
-    plt.legend()
+    plt.legend(fontsize=8)
     plt.show()
 
 # ------------------------------------------------------------------------------
