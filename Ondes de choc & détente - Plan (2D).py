@@ -26,7 +26,7 @@
 
 Ondes de choc et détentes autour d'une ogive (Modèle 2D - plan)- Analyse complète
 Créé le : 10 Décembre 2024
-Auteur : MAFFIA Edoardo
+Auteur : MAFFIA Edoardo & SAMETOGLU Alper
 
 Description :
 Ce script calcule et analyse les propriétés thermodynamiques et aérodynamiques 
